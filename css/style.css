@@ -1,0 +1,13 @@
+@import 'main.css';
+
+html{
+    background: #222;
+}
+
+body{
+    background: none;
+}
+
+h1{
+    color: white;
+}
